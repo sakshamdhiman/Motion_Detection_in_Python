@@ -2,7 +2,7 @@
 ### This project was an attempt to execute motion detection in Python using OpenCV.
 
 ### Running the project -  
-- Download the files and execute plotting.py.  
+- Download the files, install the libraries(cv2,bokeh,pandas) and execute plotting.py.  
 - 3 windows should open (Normal,Delta,Threshold).  
 - These will capture the motion in front of the web cam  
 - To exit press the key "Q".  
