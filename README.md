@@ -1,5 +1,5 @@
 # Motion_Detection_in_Python
-### This project was an attempt to execute motion detection in Python using OpenCV. Motion is detected when the pixel value is changed by a threshold value for a minimum threshold area.
+### This project was an attempt to execute motion detection in Python using OpenCV. Motion is detected when the pixel values is changed by a threshold value for a minimum threshold area.
 
 ### Running the project -  
 - Download the files, install the libraries(cv2,bokeh,pandas) and execute plotting.py.  
